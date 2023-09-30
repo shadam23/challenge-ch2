@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Challenge2</string>
+    <string name="toolbar_name">How good is our service?</string>
+    <string name="radio_button_1">Perfect 30%</string>
+    <string name="radio_button_2">Amazing 25%</string>
+    <string name="radio_button_3">Good 20%</string>
+    <string name="tips_description">By giving tips,we know
+    how well the performance has been done and what
+    improvements will be made in the future :)</string>
+    <string name="switches">Round up tip?</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="ammount_description">Tip Ammount</string>
+</resources>
